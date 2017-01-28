@@ -1,0 +1,391 @@
+,,,,,
+,,,,,
+,,,,,
+asdf,asdf,asdf@asdf.com,,Health Pro,fasdf
+asdf,asdf,asdf@asdf.com,General,Health Pro,fasdf
+asdf,asdf,asdf@asdf.com,General,Health Pro,fasdf
+asdfasdf,asdfasfd,khall@renegadecommunications.com,Employment,Health Pro,asdfasdf
+asdfasdf,asdfasfd,khall@renegadecommunications.com,Employment,Health Pro,asdfasdf
+asdfasdf,asdfasfd,khall@renegadecommunications.com,Employment,Health Pro,asdfasdf
+asdfasdf,asdfasfd,khall@renegadecommunications.com,Employment,Health Pro,asdfasdf
+asdfasdf,asdfasfd,khall@renegadecommunications.com,Employment,Health Pro,asdfasdf
+asdfasdf,asdfasfd,khall@renegadecommunications.com,Employment,Health Pro,asdfasdf
+asdfasdf,asdfasfd,khall@renegadecommunications.com,Employment,Health Pro,asdfasdf
+asdfasdf,asdfasfd,khall@renegadecommunications.com,Employment,Health Pro,asdfasdf
+asdfasdf,asdfasfd,khall@renegadecommunications.com,Employment,Health Pro,asdfasdf
+asdfasdf,asdfasfd,khall@renegadecommunications.com,Employment,Health Pro,asdfasdf
+asdfasdf,asdfasfd,khall@renegadecommunications.com,Employment,Health Pro,asdfasdf
+asdfasdf,asdfasfd,khall@renegadecommunications.com,Employment,Health Pro,asdfasdf
+asdfasdf,asdfasfd,khall@renegadecommunications.com,Employment,Health Pro,asdfasdf
+asdfasdf,asdfasfd,khall@renegadecommunications.com,Employment,Health Pro,asdfasdf
+asdfasdf,asdfasfd,khall@renegadecommunications.com,Employment,Health Pro,asdfasdf
+asdfasdf,asdfasfd,khall@renegadecommunications.com,Employment,Health Pro,asdfasdf
+asdfasdf,asdfasfd,khall@renegadecommunications.com,Employment,Health Pro,asdfasdf
+asdfasdf,asdfasfd,khall@renegadecommunications.com,Employment,Health Pro,asdfasdf
+asdfasdf,asdfasfd,khall@renegadecommunications.com,Employment,Health Pro,asdfasdf
+asdfasdf,asdfasfd,khall@renegadecommunications.com,Employment,Health Pro,asdfasdf
+asdfasdf,asdfasfd,khall@renegadecommunications.com,Employment,Health Pro,asdfasdf
+asdfasdf,asdfasfd,khall@renegadecommunications.com,Employment,Health Pro,asdfasdf
+asdfasdf,asdfasfd,khall@renegadecommunications.com,Employment,Health Pro,asdfasdf
+asdfasdf,asdfasfd,khall@renegadecommunications.com,Employment,Health Pro,asdfasdf
+asdfasdf,asdfasfd,khall@renegadecommunications.com,Employment,Health Pro,asdfasdf
+asfdasdf,asdfasdf,khall@renegadecommunications.com,Brochure,Health Admin,asfdasdf
+asfdasdf,asdfasdf,khall@renegadecommunications.com,Brochure,Health Admin,asfdasdf
+asfdasdf,asdfasdf,khall@renegadecommunications.com,Brochure,Health Admin,asfdasdf
+Hall,Nancy,khall@renegadecommunications.com,Employment,Health Pro,asdfasdf
+Hall,Ken,khall@renegadecommunications.com,Employment,Health Admin,Suite - J
+Hall,Ken,khall@renegadecommunications.com,Employment,Health Admin,Suite - J
+Hall,Ken,khall@renegadecommunications.com,Brochure,Domincan Insurance,Suite J
+Hall,Ken,khall@renegadecommunications.com,Brochure,Domincan Insurance,Suite J
+Hall,Ken,khall@renegadecommunications.com,Brochure,Health Admin,asdfasdf
+Hall,Ken,khall@renegadecommunications.com,Brochure,Health Admin,asdfasdf
+Hall,Ken,khall@renegadecommunications.com,Brochure,Health Admin,asdfasdf
+Hall,Ken,khall@renegadecommunications.com,Brochure,Health Admin,asdfasdf
+Hall,Ken,khall@renegadecommunications.com,Brochure,Health Admin,asdfasdf
+Hall,Ken,khall@renegadecommunications.com,Brochure,Health Admin,asdfasdf
+Hall,Ken,khall@renegadecommunications.com,Brochure,Health Admin,asdfasdf
+Hall,Ken,khall@renegadecommunications.com,Brochure,Health Admin,asdfasdf
+Hall,Ken,khall@renegadecommunications.com,Brochure,Health Admin,asdfasdf
+Hall,Ken,khall@renegadecommunications.com,Brochure,Health Admin,asdfasdf
+Hall,Ken,khall@renegadecommunications.com,Brochure,Health Admin,asdfasdf
+Hall,Ken,khall@renegadecommunications.com,Brochure,Health Admin,asdfasdf
+Hall,Ken,khall@renegadecommunications.com,Brochure,Health Admin,asdfasdf
+Hall,Ken,khall@renegadecommunications.com,Brochure,Health Admin,asdfasdf
+Hall,Ken,khall@renegadecommunications.com,Employment,,asdf
+Hall,Ken,khall@renegadecommunications.com,Brochure,Health Pro,askjdhfsadf
+Hall,Ken,khall@renegadecommunications.com,Brochure,Health Pro,askjdhfsadf
+Hall,Ken,khall@renegadecommunications.com,Brochure,Health Pro,askjdhfsadf
+Hall,Ken,khall@renegadecommunications.com,Brochure,Health Pro,askjdhfsadf
+Hall,Ken,khall@renegadecommunications.com,Brochure,Health Pro,askjdhfsadf
+Hall,Ken,khall@renegadecommunications.com,Brochure,Health Pro,askjdhfsadf
+Hall,Nancy,khall@renegadecommunications.com,Employment,Health Pro,asdfasdf
+Davis,Rick,rick.davis@tech-assist-haiti.org,Employment,Health Admin,I am a deeply experienced information technology professional and I am interested in exploring opportunities with you concerning your Punta Cana facility (and other LatAm and Caribbean facilities to come). Properly designed and implemented IT can have a significant impact on the success of your enterprise. I have emailed David Miller.
+Hirlinger,stephen ,shirlinger79@gmail.com,Employment,Health Pro,My name is Stephen Hirlinger and I worked with David Miller at Nueterra Healthcare. I am inquiring about possible opportunities with your organization. I would be happy to send my resume and professional background information upon your request. 
+
+Thank you 
+
+Stephen Hirlinger 
+,,,General,,
+Hall,Ken,khall@renegadecommunications.com,Employment,Health Pro,This is a test.,03/05/15
+Hall,Ken,khall@renegadecommunications.com,Brochure,Health Admin,This is test4
+,03/05/15
+Scherer,Peter, pscherer4@aol.com, Brochure, Health Pro, Brochure request
+, 04/08/15
+,, hjbaar@yahoo.com, General, , When will you be open? Are there any hospitals you recommend in the meantime?, 04/11/15
+Covington,Gina, ginacov@gmail.com, General, N/A, Just checking to see if I get a prompt response.  :), 04/20/15
+Covington,Gina, ginacov@gmail.com, General, N/A, Just checking to see if I get a prompt response.  :), 04/20/15
+Chima,Godknows N., godknowsnd@yahoo.com, Brochure, N/A, Please ,i wish to contact you for my health problems., 05/05/15
+Chima,Godknows N., godknowsnd@yahoo.com, General, N/A, Please ,i wish to contact you for my health problems., 05/05/15
+Chima,Godknows N., godknowsnd@yahoo.com, General, Health Pro, Please ,i wish to contact you for my health problems., 05/05/15
+Chima,Godknows N., godknowsnd@yahoo.com, Brochure, Health Pro, Please ,i wish to contact you for my health problems., 05/05/15
+isidro montes,Fernando , fisidrom@yahoo.es, General, Health Pro, Vivo en españa tel 34 985 23 9037 y movil  34 659736606
+
+Tengo negocios en rep dominicana donde estare hasta el dia 10 de mayo.
+
+Soy medico  y dentista y tengo una plaza comercial en uvero alto , al oeste de bavaro.
+Siempre he creido en este tipo de turismoy he estudiado los mecanismos.
+
+Quizas podamos colaborar , conozco el medio , tengo gente con capacidad comercial en la zona y en los hoteles y profesionales pensando en la odontologia y en los implantes dentales ( es mi profesion ).
+
+En uvero alto tengo locales comerciales.
+
+Deben de poner pagina tambien en español.
+
+Fernando isidro  desde santo domingo (capital), 05/07/15
+isidro montes,Fernando , fisidrom@yahoo.es, General, Health Pro, Vivo en españa tel 34 985 23 9037 y movil  34 659736606
+
+Tengo negocios en rep dominicana donde estare hasta el dia 10 de mayo.
+
+Soy medico  y dentista y tengo una plaza comercial en uvero alto , al oeste de bavaro.
+Siempre he creido en este tipo de turismoy he estudiado los mecanismos.
+
+Quizas podamos colaborar , conozco el medio , tengo gente con capacidad comercial en la zona y en los hoteles y profesionales pensando en la odontologia y en los implantes dentales ( es mi profesion ).
+
+En uvero alto tengo locales comerciales.
+
+Deben de poner pagina tambien en español.
+
+Fernando isidro  desde santo domingo (capital), 05/07/15
+isidro montes,Fernando , fisidrom@yahoo.es, General, Health Pro, Vivo en españa tel 34 985 23 9037 y movil  34 659736606
+
+Tengo negocios en rep dominicana donde estare hasta el dia 10 de mayo.
+
+Soy medico  y dentista y tengo una plaza comercial en uvero alto , al oeste de bavaro.
+Siempre he creido en este tipo de turismoy he estudiado los mecanismos.
+
+Quizas podamos colaborar , conozco el medio , tengo gente con capacidad comercial en la zona y en los hoteles y profesionales pensando en la odontologia y en los implantes dentales ( es mi profesion ).
+
+En uvero alto tengo locales comerciales.
+
+Deben de poner pagina tambien en español.
+
+Fernando isidro  desde santo domingo (capital), 05/07/15
+isidro montes,Fernando , fisidrom@yahoo.es, General, Health Pro, Vivo en españa tel 34 985 23 9037 y movil  34 659736606
+
+Tengo negocios en rep dominicana donde estare hasta el dia 10 de mayo.
+
+Soy medico  y dentista y tengo una plaza comercial en uvero alto , al oeste de bavaro.
+Siempre he creido en este tipo de turismoy he estudiado los mecanismos.
+
+Quizas podamos colaborar , conozco el medio , tengo gente con capacidad comercial en la zona y en los hoteles y profesionales pensando en la odontologia y en los implantes dentales ( es mi profesion ).
+
+En uvero alto tengo locales comerciales.
+
+Deben de poner pagina tambien en español.
+
+Fernando isidro  desde santo domingo (capital), 05/07/15
+isidro montes,Fernando , fisidrom@yahoo.es, General, Health Pro, Vivo en españa tel 34 985 23 9037 y movil  34 659736606
+
+Tengo negocios en rep dominicana donde estare hasta el dia 10 de mayo.
+
+Soy medico  y dentista y tengo una plaza comercial en uvero alto , al oeste de bavaro.
+Siempre he creido en este tipo de turismoy he estudiado los mecanismos.
+
+Quizas podamos colaborar , conozco el medio , tengo gente con capacidad comercial en la zona y en los hoteles y profesionales pensando en la odontologia y en los implantes dentales ( es mi profesion ).
+
+En uvero alto tengo locales comerciales.
+
+Deben de poner pagina tambien en español.
+
+Fernando isidro  desde santo domingo (capital), 05/07/15
+isidro montes,Fernando , fisidrom@yahoo.es, General, Health Pro, Vivo en españa tel 34 985 23 9037 y movil  34 659736606
+
+Tengo negocios en rep dominicana donde estare hasta el dia 10 de mayo.
+
+Soy medico  y dentista y tengo una plaza comercial en uvero alto , al oeste de bavaro.
+Siempre he creido en este tipo de turismoy he estudiado los mecanismos.
+
+Quizas podamos colaborar , conozco el medio , tengo gente con capacidad comercial en la zona y en los hoteles y profesionales pensando en la odontologia y en los implantes dentales ( es mi profesion ).
+
+En uvero alto tengo locales comerciales.
+
+Deben de poner pagina tambien en español.
+
+Fernando isidro  desde santo domingo (capital), 05/07/15
+isidro montes,Fernando , fisidrom@yahoo.es, General, Health Pro, Vivo en españa tel 34 985 23 9037 y movil  34 659736606
+
+Tengo negocios en rep dominicana donde estare hasta el dia 10 de mayo.
+
+Soy medico  y dentista y tengo una plaza comercial en uvero alto , al oeste de bavaro.
+Siempre he creido en este tipo de turismoy he estudiado los mecanismos.
+
+Quizas podamos colaborar , conozco el medio , tengo gente con capacidad comercial en la zona y en los hoteles y profesionales pensando en la odontologia y en los implantes dentales ( es mi profesion ).
+
+En uvero alto tengo locales comerciales.
+
+Deben de poner pagina tambien en español.
+
+Fernando isidro  desde santo domingo (capital), 05/07/15
+isidro montes,Fernando , fisidrom@yahoo.es, General, Health Pro, Vivo en españa tel 34 985 23 9037 y movil  34 659736606
+
+Tengo negocios en rep dominicana donde estare hasta el dia 10 de mayo.
+
+Soy medico  y dentista y tengo una plaza comercial en uvero alto , al oeste de bavaro.
+Siempre he creido en este tipo de turismoy he estudiado los mecanismos.
+
+Quizas podamos colaborar , conozco el medio , tengo gente con capacidad comercial en la zona y en los hoteles y profesionales pensando en la odontologia y en los implantes dentales ( es mi profesion ).
+
+En uvero alto tengo locales comerciales.
+
+Deben de poner pagina tambien en español.
+
+Fernando isidro  desde santo domingo (capital), 05/07/15
+isidro montes,Fernando , fisidrom@yahoo.es, General, Health Pro, Vivo en españa tel 34 985 23 9037 y movil  34 659736606
+
+Tengo negocios en rep dominicana donde estare hasta el dia 10 de mayo.
+
+Soy medico  y dentista y tengo una plaza comercial en uvero alto , al oeste de bavaro.
+Siempre he creido en este tipo de turismoy he estudiado los mecanismos.
+
+Quizas podamos colaborar , conozco el medio , tengo gente con capacidad comercial en la zona y en los hoteles y profesionales pensando en la odontologia y en los implantes dentales ( es mi profesion ).
+
+En uvero alto tengo locales comerciales.
+
+Deben de poner pagina tambien en español.
+
+Fernando isidro  desde santo domingo (capital), 05/07/15
+isidro montes,Fernando , fisidrom@yahoo.es, General, Health Pro, Vivo en españa tel 34 985 23 9037 y movil  34 659736606
+
+Tengo negocios en rep dominicana donde estare hasta el dia 10 de mayo.
+
+Soy medico  y dentista y tengo una plaza comercial en uvero alto , al oeste de bavaro.
+Siempre he creido en este tipo de turismoy he estudiado los mecanismos.
+
+Quizas podamos colaborar , conozco el medio , tengo gente con capacidad comercial en la zona y en los hoteles y profesionales pensando en la odontologia y en los implantes dentales ( es mi profesion ).
+
+En uvero alto tengo locales comerciales.
+
+Deben de poner pagina tambien en español.
+
+Fernando isidro  desde santo domingo (capital), 05/07/15
+isidro montes,Fernando , fisidrom@yahoo.es, General, Health Pro, Vivo en españa tel 34 985 23 9037 y movil  34 659736606
+
+Tengo negocios en rep dominicana donde estare hasta el dia 10 de mayo.
+
+Soy medico  y dentista y tengo una plaza comercial en uvero alto , al oeste de bavaro.
+Siempre he creido en este tipo de turismoy he estudiado los mecanismos.
+
+Quizas podamos colaborar , conozco el medio , tengo gente con capacidad comercial en la zona y en los hoteles y profesionales pensando en la odontologia y en los implantes dentales ( es mi profesion ).
+
+En uvero alto tengo locales comerciales.
+
+Deben de poner pagina tambien en español.
+
+Fernando isidro  desde santo domingo (capital), 05/07/15
+isidro montes,Fernando , fisidrom@yahoo.es, General, Health Pro, Vivo en españa tel 34 985 23 9037 y movil  34 659736606
+
+Tengo negocios en rep dominicana donde estare hasta el dia 10 de mayo.
+
+Soy medico  y dentista y tengo una plaza comercial en uvero alto , al oeste de bavaro.
+Siempre he creido en este tipo de turismoy he estudiado los mecanismos.
+
+Quizas podamos colaborar , conozco el medio , tengo gente con capacidad comercial en la zona y en los hoteles y profesionales pensando en la odontologia y en los implantes dentales ( es mi profesion ).
+
+En uvero alto tengo locales comerciales.
+
+Deben de poner pagina tambien en español.
+
+Fernando isidro  desde santo domingo (capital), 05/07/15
+Hall,Kenny, ken@getrenegade.com, General, , asdfasdf, 05/13/15
+Hall,Kenny, ken@getrenegade.com, Brochure, Health Admin, asdfasdfasdf, 05/13/15
+Hall,Ken, khall@renegadecommunications.com, Employment, Health Pro, asdfasdf, 05/13/15
+Castro-Meoqui,Magaly, MMeoqui@icloud.com, Brochure, N/A, , 05/13/15
+Covington,Greg, gc@virulantconsulting.com, General, N/A, Why does is your website still broken and generally sucky?, 05/27/15
+Assayag,Jonathan, jonathan.assayag01@gmail.com, General, Health Pro, Hi, I am a Canadian physician practicing general and emergency medecin, I'd like to get some information regarding employment at this site and also I would like to know if there are any investment oportunities.  Have you started construction? and if so when is your estimated date of completion and official opening. thanks for the information., 06/12/15
+Assayag,Jonathan, jonathan.assayag01@gmail.com, General, Health Pro, Hi, I am a Canadian physician practicing general and emergency medecin, I'd like to get some information regarding employment at this site and also I would like to know if there are any investment oportunities.  Have you started construction? and if so when is your estimated date of completion and official opening. thanks for the information., 06/12/15
+Assayag,Jonathan, jonathan.assayag01@gmail.com, General, Health Pro, Hi, I am a Canadian physician practicing general and emergency medecin, I'd like to get some information regarding employment at this site and also I would like to know if there are any investment oportunities.  Have you started construction? and if so when is your estimated date of completion and official opening. thanks for the information., 06/12/15
+Sanchez,Robert, sanchezpuente@yahoo.com, Brochure, N/A, i need information to the partners, 07/03/15
+Otero Gonzalez,Dr. Oscar, dr_oscarotero@yahoo.com, General, Health Pro, Hello Mr. David Miller,
+
+
+I hope you are well on receipt of this message. I spoke with Candy Gomez and I am very interested in listening to the possibility of starting to work and offer my chiropractic services in the new medical center to open in Punta Cana.
+
+I have offer my chiropractic services in Puerto Rico, for over 16 years, my services as a chiropractor are focused on wellness, healthy living and lifestyle, specializing in pregnant women and pediatrics and the general public. Also, now I have expanded my services to the metropolitan area on the island setting a new office, while participating as a speaker for different organizations such as the Latin American Federation of Chiropractors and I am also the vice-president of the board of directors of the Puerto Rico Chiropractic Association.  At the same time, I had the opportunity to provide my services to different national and international sport level events with the National Team of Puerto Rico for the Central American and Caribbean Games in Veracruz, plus athletes from Major League Baseball as Carlos Beltran, NY Yankees; Tony Valentine, NY Mets, among others.
+
+Meanwhile, I enclose several reviews of the PR efforts we work regularly in different media, accompanied by my credentials for your reference. I would like to see the possibility that we could meet for lunch or coffee on your next visit to Puerto Rico, meet in person and listening to different possibilities to start collaborating. 
+
+However, I share my personal mobile phone number where you can communicate in confidence.
+
+I am at your service and I hope we can agree soon. Thank you very much for your interest.
+
+Best Regards,
+
+
+Dr. Oscar Otero, BS; DC; CCSP, 07/09/15
+Otero Gonzalez,Dr. Oscar, dr_oscarotero@yahoo.com, General, Health Pro, Hello Mr. David Miller,
+
+
+I hope you are well on receipt of this message. I spoke with Candy Gomez and I am very interested in listening to the possibility of starting to work and offer my chiropractic services in the new medical center to open in Punta Cana.
+
+I have offer my chiropractic services in Puerto Rico, for over 16 years, my services as a chiropractor are focused on wellness, healthy living and lifestyle, specializing in pregnant women and pediatrics and the general public. Also, now I have expanded my services to the metropolitan area on the island setting a new office, while participating as a speaker for different organizations such as the Latin American Federation of Chiropractors and I am also the vice-president of the board of directors of the Puerto Rico Chiropractic Association.  At the same time, I had the opportunity to provide my services to different national and international sport level events with the National Team of Puerto Rico for the Central American and Caribbean Games in Veracruz, plus athletes from Major League Baseball as Carlos Beltran, NY Yankees; Tony Valentine, NY Mets, among others.
+
+Meanwhile, I enclose several reviews of the PR efforts we work regularly in different media, accompanied by my credentials for your reference. I would like to see the possibility that we could meet for lunch or coffee on your next visit to Puerto Rico, meet in person and listening to different possibilities to start collaborating. 
+
+However, I share my personal mobile phone number where you can communicate in confidence.
+
+I am at your service and I hope we can agree soon. Thank you very much for your interest.
+
+Best Regards,
+
+
+Dr. Oscar Otero, BS; DC; CCSP, 07/09/15
+Gonzalez,Stefanie, stefanie@gulfcoastpharmaceuticalsplus.com, General, Health Pro, We are Pharmaceutical Wholesaler looking to assist with pharmaceutical needs.  Please contact my cell at 786-506-5134 or office 888-517-3701, 07/16/15
+M,Surya, contact@muscat-expo.com, General, N/A, Dear Madam/Sir,
+Greetings from Oman…
+We will be organizing Elaj Expo – International Health and Medical Treatment Exhibition from 13-15 March 2016, in Muscat, Sultanate of Oman.
+We would like to send your company more information to visit or participate in the Exhibition.
+I request you to please send me the contact details of the person to whom I can send more information of the Event.
+Name: 
+Designation / Department: 
+Country: 
+Telephone no: 
+Mobile No: (If Possible) 
+Email: 
+
+Best Regards
+Surya M.	
+Project Manager
+Muscat Expo LLC
+Phone: +968 24 788 476 | Fax: +968 24 788 676
+Email: contact@muscat-expo.com | Website: www.muscat-expo.com 
+P. O Box 1406, PC 133, Al Khuwair, Sultanate of Oman
+, 07/20/15
+M,Surya, contact@muscat-expo.com, Brochure, N/A, Dear Madam/Sir,
+Greetings from Oman…
+We will be organizing Elaj Expo – International Health and Medical Treatment Exhibition from 13-15 March 2016, in Muscat, Sultanate of Oman.
+We would like to send your company more information to visit or participate in the Exhibition.
+I request you to please send me the contact details of the person to whom I can send more information of the Event.
+Name: 
+Designation / Department: 
+Country: 
+Telephone no: 
+Mobile No: (If Possible) 
+Email: 
+
+Best Regards
+Surya M.	
+Project Manager
+Muscat Expo LLC
+Phone: +968 24 788 476 | Fax: +968 24 788 676
+Email: contact@muscat-expo.com | Website: www.muscat-expo.com 
+P. O Box 1406, PC 133, Al Khuwair, Sultanate of Oman
+, 07/20/15
+M,Surya, contact@muscat-expo.com, Brochure, N/A, Dear Madam/Sir,
+Greetings from Oman…
+We will be organizing Elaj Expo – International Health and Medical Treatment Exhibition from 13-15 March 2016, in Muscat, Sultanate of Oman.
+We would like to send your company more information to visit or participate in the Exhibition.
+I request you to please send me the contact details of the person to whom I can send more information of the Event.
+Name: 
+Designation / Department: 
+Country: 
+Telephone no: 
+Mobile No: (If Possible) 
+Email: 
+
+Best Regards
+Surya M.	
+Project Manager
+Muscat Expo LLC
+Phone: +968 24 788 476 | Fax: +968 24 788 676
+Email: contact@muscat-expo.com | Website: www.muscat-expo.com 
+P. O Box 1406, PC 133, Al Khuwair, Sultanate of Oman
+, 07/20/15
+Wagner,Ana, salinjasmilecenter@gmail.com, Brochure, Health Admin, Are Doctors Offices  for rent or sale?
+We would like information about the possibility of having a dental care office in this project.
+
+Thanks,
+
+Ana Wagner
+, 07/22/15
+Serrano,Marco, marco.s@placidway.com, General, Health Admin, We are interested in having a partnership with your medical center for our international patients, we are market leader in medical tourism industry, let us schedule a call to discuss potential ways we can work together. Thank you... Marco , 08/06/15
+Serrano,Marco, marco.s@placidway.com, General, Health Admin, We are interested in having a partnership with your medical center for our international patients, we are market leader in medical tourism industry, let us schedule a call to discuss potential ways we can work together. Thank you... Marco , 08/06/15
+Serrano,Marco, marco.s@placidway.com, General, Health Admin, We are interested in having a partnership with your medical center for our international patients, we are market leader in medical tourism industry, let us schedule a call to discuss potential ways we can work together. Thank you... Marco , 08/06/15
+Serrano,Marco, marco.s@placidway.com, General, Health Admin, We are interested in having a partnership with your medical center for our international patients, we are market leader in medical tourism industry, let us schedule a call to discuss potential ways we can work together. Thank you... Marco , 08/06/15
+Serrano,Marco, marco.s@placidway.com, General, Health Admin, We are interested in having a partnership with your medical center for our international patients, we are market leader in medical tourism industry, let us schedule a call to discuss potential ways we can work together. Thank you... Marco , 08/06/15
+Serrano,Marco, marco.s@placidway.com, General, Health Admin, We are interested in having a partnership with your medical center for our international patients, we are market leader in medical tourism industry, let us schedule a call to discuss potential ways we can work together. Thank you... Marco , 08/06/15
+McBreen,Marsha D. , marsham@dcallc.com, General, Health Pro, Dear Ms. Kim Jennings,
+I am Marsha Mc Breen, Partner/CEO of Diversified Consulting Associates, LLC, a US-based health care firm specializing in academic medicine and the training of physicians and medical students. I learned of the new hospital while staying in Punta Cana on holiday and look forward to discussing your vision for the medical complex.  Please email me with date/time options for a conference call.  This is, indeed, an exciting and unique health and wellness opportunity.
+best regards,
+Marsha McBreen
+www.dcallc.com
+ , 08/19/15
+McBreen,Marsha, marsham@dcallc.com, General, Health Pro, Attn: Kim Jennings:
+
+Interested in the possibility of creating Graduate Medical Education Residency Programs in Punta Cana., 08/20/15
+McBreen,Marsha, marsham@dcallc.com, General, Health Pro, Attn: Kim Jennings:
+
+Interested in the possibility of creating Graduate Medical Education Residency Programs in Punta Cana., 08/20/15
+McBreen,Marsha, marsham@dcallc.com, General, Health Pro, Attn: Kim Jennings:
+
+Interested in the possibility of creating Graduate Medical Education Residency Programs in Punta Cana., 08/20/15
+McBreen,Marsha, marsham@dcallc.com, General, Health Pro, Attn: Kim Jennings,
+
+Are you interested in establishing Graduate Medical Education Residency Programs at the Punta Cana Hospital?
+
+Marsha, 08/20/15
+McBreen,Marsha, marsham@dcallc.com, General, Health Pro, Attn: Kim Jennings,
+
+Are you interested in establishing Graduate Medical Education Residency Programs at the Punta Cana Hospital?
+
+Marsha, 08/20/15
+,, , General, , , 08/20/15
